@@ -1,0 +1,6 @@
+2025-01-18 17:18:28-root-DEBUG-this is a debug message
+2025-01-18 17:18:28-root-ERROR-this is a error message
+2025-01-18 17:18:28-root-INFO-this is a info message
+2025-01-18 17:18:28-root-WARNING-this is a warning message
+2025-01-18 17:18:28-root-CRITICAL-this is a critical message
+2025-01-18 18:37:29-arithmetic operations-DEBUG-this is a additon of 10+15=25
