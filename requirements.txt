@@ -4,3 +4,7 @@ pandas
 matplotlib
 seaborn
 flask
+scikit-learn
+imblearn
+openpyxl
+statsmodels
